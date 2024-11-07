@@ -1,1 +1,2 @@
 # ATM-Management
+#Developed a bank management system in Java with functionalities including deposit, withdrawal, balance enquiry, and PIN management. Designed an Atm class for user interaction, a BankServer class for PIN validation and updates, and a BankUtil class for transaction handling. Implemented security features such as a PIN retry limit and account blocking. Ensured minimum balance compliance and restricted low-amount deposits. Demonstrated modular coding, security, and transaction management skills in a structured project."
